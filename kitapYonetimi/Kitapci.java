@@ -18,6 +18,6 @@ package javaProjects.kitapYonetimi;
 			4: Bitir
 			
 			
-			selam
+			selam/
 
  */
